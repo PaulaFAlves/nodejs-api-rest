@@ -5,10 +5,10 @@ API that works with NPS (Net Promoter Score), which is a metric used in customer
 ## Features
 
 - User registration
-- Survey registration 
+- Survey registration
 - Email sending
 
-## Teconologias
+## Tecnologies
 
 - [NodeJs](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
